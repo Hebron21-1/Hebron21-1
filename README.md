@@ -7,20 +7,18 @@ INSTRUCTIONS
 
 <!-- ───────────────────────────────────────────────────────────────── -->
 
-<p align="center">
-  <img src="[[BANNER_IMAGE_URL or remove this <img>]]" alt="GitHub Banner" width="100%"/>
-</p>
+
 
 <h1 align="center">Hi, I'm Hebron 👋</h1>
 <p align="center">
-  <em>Learner at <strong>ALX Back-End Web Development</strong> · Aspiring Back-End Developer · Based in [[CITY/COUNTRY]]</em>
+  <em>Learner at <strong>ALX Back-End Web Development</strong> · Aspiring Back-End Developer · Based in [Addis Ababa/Ethiopia]</em>
 </p>
 
 <p align="center">
   <a href="https://github.com/Hebron21-1?tab=followers"><img src="https://img.shields.io/github/followers/Hebron21-1?label=Follow&style=for-the-badge" alt="GitHub Followers"></a>
-  <a href="https://www.linkedin.com/in/[[LINKEDIN_HANDLE]]/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/[[Hebron Samuel]]/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
   <img src="https://komarev.com/ghpvc/?username=Hebron21-1&style=for-the-badge" alt="Profile Views"/>
-  <a href="mailto:[[YOUR_EMAIL]]"><img src="https://img.shields.io/badge/Email-[[YOUR_EMAIL]]-success?style=for-the-badge" alt="Email"></a>
+  <a href="mailto:[[hebronsamuel00@gmail.com]]"><img src="https://img.shields.io/badge/Email-[[hebronsamuel00@gmail.com]]-success?style=for-the-badge" alt="Email"></a>
 </p>
 
 ---
